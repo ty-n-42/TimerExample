@@ -1,2 +1,2 @@
 # TimerExample
- Example from the Gotod documentation
+ Example from the Godot documentation
